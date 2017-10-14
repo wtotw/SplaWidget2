@@ -1,0 +1,7 @@
+{
+  "name": "splawidget2",
+  "dependencies": {
+    "co": "registry:npm/co#4.6.0+20160905045231",
+    "superagent": "registry:dt/superagent#2.0.0+20161124104740"
+  }
+}

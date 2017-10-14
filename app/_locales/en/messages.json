@@ -1,0 +1,795 @@
+{
+  "appName": {
+    "message": "SplaWidget2",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "SplaWidget2",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Widget of Splatoon2",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "SplaWidget2",
+    "description": "The title of the browser action button"
+  },
+
+
+  "reload": {
+    "message": "Reload"
+  },
+  "option": {
+    "message": "SplaWidget2 Option"
+  },
+  "mainSkill": {
+    "message": "Main Ability"
+  },
+  "subSkill": {
+    "message": "Sub Ability"
+  },
+  "countDown": {
+    "message": "Remaining: $hour$h $min$min",
+    "placeholders": {
+      "hour": { "content": "$1" },
+      "min": { "content": "$2" }
+    }
+  },
+
+
+  "BombDefenseUp": {
+    "message": "Bomb Defense Up"
+  },
+  "ColdBlooded": {
+    "message": "Cold-Blooded"
+  },
+  "Comeback": {
+    "message": "Comeback"
+  },
+  "DropRoller": {
+    "message": "Drop Roller"
+  },
+  "hatena": {
+    "message": "hatena"
+  },
+  "Haunt": {
+    "message": "Haunt"
+  },
+  "InkRecoveryUp": {
+    "message": "Ink Recovery Up"
+  },
+  "InkResistanceUp": {
+    "message": "Ink Resistance Up"
+  },
+  "InkSaverMain": {
+    "message": "Ink Saver(Main)"
+  },
+  "InkSaverSub": {
+    "message": "Ink Saver(Sub)"
+  },
+  "LastDitchEffort": {
+    "message": "Last-Ditch Effort"
+  },
+  "NinjaSquid": {
+    "message": "Ninja Squid"
+  },
+  "ObjectShredder": {
+    "message": "Object Shredder"
+  },
+  "OpeningGambit": {
+    "message": "Opening Gambit"
+  },
+  "QuickRespawn": {
+    "message": "Quick Respawn"
+  },
+  "QuickSuperJump": {
+    "message": "Quick Super Jump"
+  },
+  "RespawnPunisher": {
+    "message": "Respawn Punisher"
+  },
+  "RunSpeedUp": {
+    "message": "Run Speed Up"
+  },
+  "SpecialChargeUp": {
+    "message": "Special Charge Up"
+  },
+  "SpecialPowerUp": {
+    "message": "Special Power Up"
+  },
+  "SpecialSaver": {
+    "message": "Special Saver"
+  },
+  "StealthJump": {
+    "message": "Stealth Jump"
+  },
+  "SubPowerUp": {
+    "message": "Sub Power Up"
+  },
+  "SwimSpeedUp": {
+    "message": "Swim Speed Up"
+  },
+  "Tenacity": {
+    "message": "Tenacity"
+  },
+  "ThermalInk": {
+    "message": "Thermal Ink"
+  },
+
+  "AnchorSweat": {
+    "message": "Anchor Sweat"
+  },
+  "AnnakiDriveTee": {
+    "message": "Annaki Drive Tee"
+  },
+  "AnnakiEvolutionTee": {
+    "message": "Annaki Evolution Tee"
+  },
+  "ArmorJacketReplica": {
+    "message": "Armor Jacket Replica"
+  },
+  "BballJerseyAway": {
+    "message": "B-ball Jersey (Away)"
+  },
+  "BabyJellyShirt": {
+    "message": "Baby-Jelly Shirt"
+  },
+  "BabyJellyShirtTie": {
+    "message": "Baby-Jelly Shirt Tie"
+  },
+  "BasicTee": {
+    "message": "Basic Tee"
+  },
+  "BerrySkiJacket": {
+    "message": "Berry Ski Jacket"
+  },
+  "BirdedCorduroyJacket": {
+    "message": "Birded Corduroy Jacket"
+  },
+  "BlackInkyRider": {
+    "message": "Black Inky Rider"
+  },
+  "BlackLS": {
+    "message": "Black LS"
+  },
+  "BlackSquideye": {
+    "message": "Black Squideye"
+  },
+  "BlackTee": {
+    "message": "Black Tee"
+  },
+  "BlackUrchinRockTee": {
+    "message": "Black Urchin Rock Tee"
+  },
+  "BlackVNeckTee": {
+    "message": "Black V-Neck Tee"
+  },
+  "BluePeaksTee": {
+    "message": "Blue Peaks Tee"
+  },
+  "BlueSailorSuit": {
+    "message": "Blue Sailor Suit"
+  },
+  "BlueTentatekTee": {
+    "message": "Blue Tentatek Tee"
+  },
+  "BrownFA11Bomber": {
+    "message": "Brown FA-11 Bomber"
+  },
+  "CamoZipHoodie": {
+    "message": "Camo Zip Hoodie"
+  },
+  "ChillyMountainCoat": {
+    "message": "Chilly Mountain Coat"
+  },
+  "ChirpyChipsBandTee": {
+    "message": "Chirpy Chips Band Tee"
+  },
+  "ChocoLayeredLS": {
+    "message": "Choco Layered LS"
+  },
+  "CrimsonParashooter": {
+    "message": "Crimson Parashooter"
+  },
+  "CycleKingJersey": {
+    "message": "Cycle King Jersey"
+  },
+  "DarkUrbanVest": {
+    "message": "Dark Urban Vest"
+  },
+  "EggplantMountainCoat": {
+    "message": "Eggplant Mountain Coat"
+  },
+  "FA01Jacket": {
+    "message": "FA-01 Jacket"
+  },
+  "FA01Reversed": {
+    "message": "FA-01 Reversed"
+  },
+  "FCAlbacore": {
+    "message": "FC Albacore"
+  },
+  "FuguTee": {
+    "message": "Fugu Tee"
+  },
+  "GrapeHoodie": {
+    "message": "Grape Hoodie"
+  },
+  "Gray8BitFishFry": {
+    "message": "Gray 8-Bit Fish Fry"
+  },
+  "GrayFA11Bomber": {
+    "message": "Gray FA-11 Bomber"
+  },
+  "GrayHoodie": {
+    "message": "Gray Hoodie"
+  },
+  "GreenCheckShirt": {
+    "message": "Green-Check Shirt"
+  },
+  "GreenTee": {
+    "message": "Green Tee"
+  },
+  "HalfSleeveSweater": {
+    "message": "Half-Sleeve Sweater"
+  },
+  "HightideEraBandTee": {
+    "message": "Hightide Era Band Tee"
+  },
+  "HulaPunkShirt": {
+    "message": "Hula Punk Shirt"
+  },
+  "InkfallShirt": {
+    "message": "Inkfall Shirt"
+  },
+  "InkopolisSquapsJersey": {
+    "message": "Inkopolis Squaps Jersey"
+  },
+  "JuiceParka": {
+    "message": "Juice Parka"
+  },
+  "KingJersey": {
+    "message": "King Jersey"
+  },
+  "LayeredAnchorLS": {
+    "message": "Layered Anchor LS"
+  },
+  "LayeredVectorLS": {
+    "message": "Layered Vector LS"
+  },
+  "LimeEasyStripeShirt": {
+    "message": "Lime Easy-Stripe Shirt"
+  },
+  "LogoAlohaShirt": {
+    "message": "Logo Aloha Shirt"
+  },
+  "MatchaDownJacket": {
+    "message": "Matcha Down Jacket"
+  },
+  "MintTee": {
+    "message": "Mint Tee"
+  },
+  "MisterShrugTee": {
+    "message": "Mister Shrug Tee"
+  },
+  "NavyDecaLogoTee": {
+    "message": "Navy Deca Logo Tee"
+  },
+  "NavyKingTank": {
+    "message": "Navy King Tank"
+  },
+  "NavyStripedLS": {
+    "message": "Navy Striped LS"
+  },
+  "NegativeLongcuffSweater": {
+    "message": "Negative Longcuff Sweater"
+  },
+  "OctobowlerShirt": {
+    "message": "Octobowler Shirt"
+  },
+  "PinkEasyStripeShirt": {
+    "message": "Pink Easy-Stripe Shirt"
+  },
+  "PositiveLongcuffSweater": {
+    "message": "Positive Longcuff Sweater"
+  },
+  "PruneParashooter": {
+    "message": "Prune Parashooter"
+  },
+  "PulloverCoat": {
+    "message": "Pullover Coat"
+  },
+  "PurpleCamoLS": {
+    "message": "Purple Camo LS"
+  },
+  "RedTentatekTee": {
+    "message": "Red Tentatek Tee"
+  },
+  "RedVectorTee": {
+    "message": "Red Vector Tee"
+  },
+  "ReelSweat": {
+    "message": "Reel Sweat"
+  },
+  "RetroSweat": {
+    "message": "Retro Sweat"
+  },
+  "SailorStripeTee": {
+    "message": "Sailor-Stripe Tee"
+  },
+  "ShirtTie": {
+    "message": "Shirt Tie"
+  },
+  "ShirtwithBlueHoodie": {
+    "message": "Shirtwith Blue Hoodie"
+  },
+  "ShortKnitLayers": {
+    "message": "Short Knit Layers"
+  },
+  "ShrimpPinkPolo": {
+    "message": "Shrimp-Pink Polo"
+  },
+  "SlashKingTank": {
+    "message": "Slash King Tank"
+  },
+  "SlipstreamUnited": {
+    "message": "Slipstream United"
+  },
+  "SquidSatinJacket": {
+    "message": "Squid Satin Jacket"
+  },
+  "SquidSquadBandTee": {
+    "message": "Squid Squad Band Tee"
+  },
+  "SunnyDayTee": {
+    "message": "Sunny-Day Tee"
+  },
+  "TakorokaWindcrusher": {
+    "message": "Takoroka Windcrusher"
+  },
+  "UrchinsJersey": {
+    "message": "Urchins Jersey"
+  },
+  "VarsityJacket": {
+    "message": "Varsity Jacket"
+  },
+  "VintageCheckShirt": {
+    "message": "Vintage Check Shirt"
+  },
+  "WetFloorBandTee": {
+    "message": "Wet Floor Band Tee"
+  },
+  "White8BitFishFry": {
+    "message": "White 8-Bit Fish Fry"
+  },
+  "WhiteAnchorTee": {
+    "message": "White Anchor Tee"
+  },
+  "WhiteBaseballLS": {
+    "message": "White Baseball LS"
+  },
+  "WhiteDecaLogoTee": {
+    "message": "White Deca Logo Tee"
+  },
+  "WhiteInkyRider": {
+    "message": "White Inky Rider"
+  },
+  "WhiteKingTank": {
+    "message": "White King Tank"
+  },
+  "WhiteTee": {
+    "message": "White Tee"
+  },
+  "WhiteUrchinRockTee": {
+    "message": "White Urchin Rock Tee"
+  },
+  "WhiteVNeckTee": {
+    "message": "White V-Neck Tee"
+  },
+  "YellowLayeredLS": {
+    "message": "Yellow Layered LS"
+  },
+  "YellowUrbanVest": {
+    "message": "Yellow Urban Vest"
+  },
+  "ZekkoBaseballLS": {
+    "message": "Zekko Baseball LS"
+  },
+  "ZekkoHoodie": {
+    "message": "Zekko Hoodie"
+  },
+  "ZekkoJadeCoat": {
+    "message": "Zekko Jade Coat"
+  },
+  "ZekkoRedleafCoat": {
+    "message": "Zekko Redleaf Coat"
+  },
+  "ZinkLayeredLS": {
+    "message": "Zink Layered LS"
+  },
+
+  "18KAviators": {
+    "message": "18K Aviators"
+  },
+  "AnnakiBeret": {
+    "message": "Annaki Beret"
+  },
+  "AnnakiMask": {
+    "message": "Annaki Mask"
+  },
+  "ArmorHelmetReplica": {
+    "message": "Armor Helmet Replica"
+  },
+  "BackwardsCap": {
+    "message": "Backwards Cap"
+  },
+  "BambooHat": {
+    "message": "Bamboo Hat"
+  },
+  "BikeHelmet": {
+    "message": "Bike Helmet"
+  },
+  "BlowfishBellHat": {
+    "message": "Blowfish BellHat"
+  },
+  "BobbleHat": {
+    "message": "Bobble Hat"
+  },
+  "BucketHat": {
+    "message": "Bucket Hat"
+  },
+  "CamoMesh": {
+    "message": "Camo Mesh"
+  },
+  "CampingHat": {
+    "message": "Camping Hat"
+  },
+  "CycleKingCap": {
+    "message": "Cycle King Cap"
+  },
+  "FakeContacts": {
+    "message": "Fake Contacts"
+  },
+  "FirefinFacemask": {
+    "message": "Firefin Facemask"
+  },
+  "FishFryVisor": {
+    "message": "Fish Fry Visor"
+  },
+  "FivePanelCap": {
+    "message": "Five-Panel Cap"
+  },
+  "HalfRimGlasses": {
+    "message": "Half-Rim Glasses"
+  },
+  "HickoryWorkCap": {
+    "message": "Hickory WorkCap"
+  },
+  "HockeyHelmet": {
+    "message": "Hockey Helmet"
+  },
+  "JellyvaderCap": {
+    "message": "Jellyvader Cap"
+  },
+  "KingFacemask": {
+    "message": "King Facemask"
+  },
+  "KingFlipMesh": {
+    "message": "King Flip Mesh"
+  },
+  "KnittedHat": {
+    "message": "Knitted Hat"
+  },
+  "LightweightCap": {
+    "message": "Lightweight Cap"
+  },
+  "MTBHelmet": {
+    "message": "MTB Helmet"
+  },
+  "NoiseCancelers": {
+    "message": "Noise Cancelers"
+  },
+  "PaintballMask": {
+    "message": "Paintball Mask"
+  },
+  "PaintersMask": {
+    "message": "Painters Mask"
+  },
+  "PatchedHat": {
+    "message": "Patched Hat"
+  },
+  "PilotGoggles": {
+    "message": "Pilot Goggles"
+  },
+  "PowerMask": {
+    "message": "Power Mask"
+  },
+  "RetroSpecs": {
+    "message": "Retro Specs"
+  },
+  "SafariHat": {
+    "message": "Safari Hat"
+  },
+  "SkullBandana": {
+    "message": "Skull Bandana"
+  },
+  "SnorkelMask": {
+    "message": "Snorkel Mask"
+  },
+  "SoccerHeadband": {
+    "message": "Soccer Headband"
+  },
+  "SpecialForcesBeret": {
+    "message": "Special Forces Beret"
+  },
+  "SquashHeadband": {
+    "message": "Squash Headband"
+  },
+  "SquidFacemask": {
+    "message": "Squid Facemask"
+  },
+  "SquidfinHookCans": {
+    "message": "Squidfin Hook Cans"
+  },
+  "SquidvaderCap": {
+    "message": "Squidvader Cap"
+  },
+  "StrawBoater": {
+    "message": "Straw Boater"
+  },
+  "StripedBeanie": {
+    "message": "Striped Beanie"
+  },
+  "StudioHeadphones": {
+    "message": "Studio Headphones"
+  },
+  "SunVisor": {
+    "message": "Sun Visor"
+  },
+  "TakorokaMesh": {
+    "message": "Takoroka Mesh"
+  },
+  "TakorokaVisor": {
+    "message": "Takoroka Visor"
+  },
+  "TennisHeadband": {
+    "message": "Tennis Headband"
+  },
+  "TintedShades": {
+    "message": "Tinted Shades"
+  },
+  "UrchinsCap": {
+    "message": "Urchins Cap"
+  },
+  "VisorSkateHelmet": {
+    "message": "Visor Skate Helmet"
+  },
+  "WhiteHeadband": {
+    "message": "White Headband"
+  },
+
+  "AcerolaRainBoots": {
+    "message": "Acerola Rain Boots"
+  },
+  "ArrowPullOns": {
+    "message": "Arrow Pull-Ons"
+  },
+  "BirchClimbingShoes": {
+    "message": "Birch Climbing Shoes"
+  },
+  "BlackDakroniks": {
+    "message": "Black Dakroniks"
+  },
+  "BlackFlipFlops": {
+    "message": "Black Flip-Flops"
+  },
+  "BlackNorimaki750s": {
+    "message": "Black Norimaki 750s"
+  },
+  "BlackTrainers": {
+    "message": "Black Trainers"
+  },
+  "BlueberryCasuals": {
+    "message": "Blueberry Casuals"
+  },
+  "BlueBlackSquidkidIV": {
+    "message": "Blue Black Squidkid IV"
+  },
+  "BlueMotoBoots": {
+    "message": "Blue Moto Boots"
+  },
+  "BlueSlipOns": {
+    "message": "Blue Slip-Ons"
+  },
+  "CanaryTrainers": {
+    "message": "Canary Trainers"
+  },
+  "CherryKicks": {
+    "message": "Cherry Kicks"
+  },
+  "ChocoClogs": {
+    "message": "Choco Clogs"
+  },
+  "CrazyArrows": {
+    "message": "Crazy Arrows"
+  },
+  "CreamBasics": {
+    "message": "Cream Basics"
+  },
+  "FringedLoafers": {
+    "message": "Fringed Loafers"
+  },
+  "GoldHiHorses": {
+    "message": "Gold Hi-Horses"
+  },
+  "GraySeaSlugHiTops": {
+    "message": "Gray Sea-Slug Hi-Tops"
+  },
+  "HeroRunnerReplicas": {
+    "message": "Hero Runner Replicas"
+  },
+  "HeroSnowbootsReplicas": {
+    "message": "Hero Snowboots Replicas"
+  },
+  "HunterHiTops": {
+    "message": "Hunter Hi-Tops"
+  },
+  "HuntingBoots": {
+    "message": "Hunting Boots"
+  },
+  "KidClams": {
+    "message": "Kid Clams"
+  },
+  "LESoccerShoes": {
+    "message": "LE Soccer Shoes"
+  },
+  "Mawcasins": {
+    "message": "Mawcasins"
+  },
+  "MintDakroniks": {
+    "message": "Mint Dakroniks"
+  },
+  "MotoBoots": {
+    "message": "Moto Boots"
+  },
+  "NeonDeltaStraps": {
+    "message": "Neon Delta Straps"
+  },
+  "NeonSeaSlugs": {
+    "message": "Neon Sea Slugs"
+  },
+  "OrangeArrows": {
+    "message": "Orange Arrows"
+  },
+  "OrcaHiTops": {
+    "message": "Orca Hi-Tops"
+  },
+  "OysterClogs": {
+    "message": "Oyster Clogs"
+  },
+  "PinkTrainers": {
+    "message": "Pink Trainers"
+  },
+  "PiranhaMoccasins": {
+    "message": "Piranha Moccasins"
+  },
+  "PlumCasuals": {
+    "message": "Plum Casuals"
+  },
+  "ProTrailBoots": {
+    "message": "Pro Trail Boots"
+  },
+  "PunkBlacks": {
+    "message": "Punk Blacks"
+  },
+  "PunkWhites": {
+    "message": "Punk Whites"
+  },
+  "PurpleHiHorses": {
+    "message": "Purple Hi-Horses"
+  },
+  "PurpleSeaSlugs": {
+    "message": "Purple Sea Slugs"
+  },
+  "RedMeshSneakers": {
+    "message": "Red-Mesh Sneakers"
+  },
+  "RedBlackSquidkidIV": {
+    "message": "Red Black Squidkid IV"
+  },
+  "RedHiHorses": {
+    "message": "Red Hi-Horses"
+  },
+  "RoastedBrogues": {
+    "message": "Roasted Brogues"
+  },
+  "SmokyWingtips": {
+    "message": "Smoky Wingtips"
+  },
+  "SnowDeltaStraps": {
+    "message": "Snow Delta Straps"
+  },
+  "StrappingReds": {
+    "message": "Strapping Reds"
+  },
+  "StrappingWhites": {
+    "message": "Strapping Whites"
+  },
+  "SunnyClimbingShoes": {
+    "message": "Sunny Climbing Shoes"
+  },
+  "SunsetOrcaHiTops": {
+    "message": "Sunset Orca Hi-Tops"
+  },
+  "TrailBoots": {
+    "message": "Trail Boots"
+  },
+  "WhiteKicks": {
+    "message": "White Kicks"
+  },
+  "WhiteNorimaki750s": {
+    "message": "White Norimaki 750s"
+  },
+  "WhiteSeahorses": {
+    "message": "White Seahorses"
+  },
+  "YellowMeshSneakers": {
+    "message": "Yellow-Mesh Sneakers"
+  },
+
+  "Annaki": {
+    "message": "Annaki"
+  },
+  "Cuttlegear": {
+    "message": "Cuttlegear"
+  },
+  "Enperry": {
+    "message": "Enperry"
+  },
+  "Famitsu": {
+    "message": "Famitsu"
+  },
+  "Firefin": {
+    "message": "Firefin"
+  },
+  "Forge": {
+    "message": "Forge"
+  },
+  "Grizzco": {
+    "message": "Grizzco"
+  },
+  "Inkline": {
+    "message": "Inkline"
+  },
+  "KrakOn": {
+    "message": "Krak-On"
+  },
+  "Rockenberg": {
+    "message": "Rockenberg"
+  },
+  "Skalop": {
+    "message": "Skalop"
+  },
+  "SplashMob": {
+    "message": "Splash Mob"
+  },
+  "SquidForce": {
+    "message": "Squid Force"
+  },
+  "Takoroka": {
+    "message": "Takoroka"
+  },
+  "Tentatek": {
+    "message": "Tentatek"
+  },
+  "ToniKensa": {
+    "message": "Toni Kensa"
+  },
+  "Zekko": {
+    "message": "Zekko"
+  },
+  "Zink": {
+    "message": "Zink"
+  }
+}
