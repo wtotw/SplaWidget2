@@ -2,6 +2,8 @@
 
 スプラトゥーン2のウィジェット
 
+[generator-chrome-extension-kickstart-typescript](https://www.npmjs.com/package/generator-chrome-extension-kickstart-typescript)使ってます。
+
 ## Installation
 
 	$ npm install
