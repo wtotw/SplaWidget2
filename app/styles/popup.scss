@@ -7,6 +7,7 @@ body {
   font-family: 'Splatfont2';
   font-size: 20px;
   width: 350px;
+  height: 600px;
   background-color: #fff;
   // @include background-stripe(rgba(255, 7, 234, 0.77), 40px);
 
@@ -86,6 +87,7 @@ body {
           }
 
           .countDown {
+            width: 100px;
             margin-left: auto;
           }
         }
