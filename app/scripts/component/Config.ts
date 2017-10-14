@@ -5,5 +5,5 @@ export const API = {
 };
 
 export const AWS = {
-  'S3': 'https://s3-ap-northeast-1.amazonaws.com/splawidget2'
+  'S3': 'https://d220cs6w3530pr.cloudfront.net'
 };
