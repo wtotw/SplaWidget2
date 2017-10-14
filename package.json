@@ -2,7 +2,7 @@
   "name": "splawidget2",
   "private": true,
   "version": "1.0.1",
-  "description": "スプラトゥーン2のウィジェット",
+  "description": "スプラトゥーン2のゲソタウンの商品を表示します。",
   "scripts": {
     "start": "npm run dev:chrome",
     "build": "npm run build:chrome",
