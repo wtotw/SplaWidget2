@@ -239,7 +239,7 @@
     "message": "バンドT HIGHTIDEERA"
   },
   "HulaPunkShirt": {
-    "message": "HulaPunkShirt"
+    "message": "ピーターパンクシャツ"
   },
   "InkfallShirt": {
     "message": "スミカケシャツ"
@@ -410,6 +410,209 @@
     "message": "アイロニックレイヤード"
   },
 
+  "SchoolJersey": {
+    "message": "スクールジャージー"
+  },
+  "CyclingShirt": {
+    "message": "テッカサイクルシャツ"
+  },
+  "BballJerseyHome": {
+    "message": "バスケジャージ ホーム"
+  },
+  "ZekkoLongRadishTee": {
+    "message": "エゾッコロンTラディッシュ"
+  },
+  "ZekkoLongCarrotTee": {
+    "message": "エゾッコロンTキャロット"
+  },
+  "ZapfishSatinJacket": {
+    "message": "ウラスカジャン"
+  },
+  "TumericZekkoCoat": {
+    "message": "エゾッココーチ ウコン"
+  },
+  "OliveZekkoParka": {
+    "message": "エゾッコパーカー ウグイス"
+  },
+  "GrayMixedShirt": {
+    "message": "ミックスシャツ グレー"
+  },
+  "BlackPolo": {
+    "message": "ピンポンポロ"
+  },
+  "LightBomberJacket": {
+    "message": "ボンバージャケット ポジ"
+  },
+  "KensaCoat": {
+    "message": "ケンサキコーチ"
+  },
+  "FrontZipVest": {
+    "message": "フロントジップベスト"
+  },
+  "DarkBomberJacket": {
+    "message": "ボンバージャケット ネガ"
+  },
+  "TentatekSloganTee": {
+    "message": "アロメスローガンT"
+  },
+  "SkyBlueSquideye": {
+    "message": "イカノメT ブラック"
+  },
+  "PartTimePirate": {
+    "message": "かくれパイレーツ"
+  },
+  "TricolorRugby": {
+    "message": "トリコロールラガー"
+  },
+  "TakorokaRainbowTieDye": {
+    "message": "ヤコタイダイ レインボー"
+  },
+  "TakorokaNylonVintage": {
+    "message": "ヤコナイロン ヴィンテージ"
+  },
+  "TakorokaGalacticTieDye": {
+    "message": "ヤコタイダイ ギャラクシー"
+  },
+  "WhiteLayeredLS": {
+    "message": "レイヤード ホワイト"
+  },
+  "SquidmarkSweat": {
+    "message": "イカバッテンマスタード"
+  },
+  "SquidmarkLS": {
+    "message": "イカバッテンロング"
+  },
+  "BlackAnchorTee": {
+    "message": "イカリスウェット"
+  },
+  "WhiteStripedLS": {
+    "message": "ボーダーホワイト"
+  },
+  "WhiteShirt": {
+    "message": "シロシャツ"
+  },
+  "VarsityBaseballLS": {
+    "message": "カレッジラグラン"
+  },
+  "StripedShirt": {
+    "message": "ブロックストライプシャツ"
+  },
+  "SagePolo": {
+    "message": "よもぎポロ"
+  },
+  "PirateStripeTee": {
+    "message": "パイレーツボーダー"
+  },
+  "PinkHoodie": {
+    "message": "シャツノゾキピンク"
+  },
+  "OrangeCardigan": {
+    "message": "レタード オレンジ"
+  },
+  "LinenShirt": {
+    "message": "シャンブレーシャツ"
+  },
+  "GrayCollegeSweat": {
+    "message": "カレッジスウェット グレー"
+  },
+  "ReggaeTee": {
+    "message": "イカジャマイカ"
+  },
+  "PearlTee": {
+    "message": "パールドットT"
+  },
+  "IcewaveTee": {
+    "message": "アイスグラデT"
+  },
+  "GrapeTee": {
+    "message": "グレープT"
+  },
+  "FirewaveTee": {
+    "message": "ホットグラデT"
+  },
+  "RoundCollarShirt": {
+    "message": "マルエリシャツ"
+  },
+  "RockenbergWhite": {
+    "message": "ロッケンベルグT ホワイト"
+  },
+  "LumberjackShirt": {
+    "message": "オータムネル"
+  },
+  "BlackBaseballLS": {
+    "message": "ハラグロラグラン"
+  },
+  "SquidstarWaistcoat": {
+    "message": "イカノボリベスト"
+  },
+  "RodeoShirt": {
+    "message": "イカスタンシャツ"
+  },
+  "RainyDayTee": {
+    "message": "レイニーブルーT"
+  },
+  "KrakOn528": {
+    "message": "クラーゲス528"
+  },
+  "OliveSkiJacket": {
+    "message": "マウンテンオリーブ"
+  },
+  "MountainVest": {
+    "message": "マウンテンダウン"
+  },
+  "GreenStripedLS": {
+    "message": "ボーダーモスグリーン"
+  },
+  "FishingVest": {
+    "message": "フィッシャーズベスト オジ"
+  },
+  "WhiteSailorSuit": {
+    "message": "イカセーラー ホワイト"
+  },
+  "MoistGhillieSuit": {
+    "message": "モイストギリースーツ"
+  },
+  "ForgeInklingParka": {
+    "message": "F-190"
+  },
+  "CustomPaintedF3": {
+    "message": "F-3 ペイントカスタム"
+  },
+  "3Tee": {
+    "message": "ω-3T"
+  },
+  "GreenZipHoodie": {
+    "message": "ジップアップ カモ"
+  },
+  "FirefinNavySweat": {
+    "message": "ホッコリー ネイビー"
+  },
+  "CarnivoreTee": {
+    "message": "ニクショクT"
+  },
+  "Black8BitFishFry": {
+    "message": "ヤキフグ8bit ブラック"
+  },
+  "BaseballJersey": {
+    "message": "ミスターベースボール"
+  },
+  "NPacerSweat": {
+    "message": "エンペーサートレーナー"
+  },
+  "NavyEminenceJacket": {
+    "message": "キングベンチNV"
+  },
+  "RedHulaPunkwithTie": {
+    "message": "ピーターパンクタイ ブラッド"
+  },
+  "AnnakiRedCuff": {
+    "message": "アナアキニット アカソデ"
+  },
+  "AnnakiBlueCuff": {
+    "message": "アナアキニット アオソデ"
+  },
+
+
 
   "18KAviators": {
     "message": "タレサン18K"
@@ -570,6 +773,98 @@
   "WhiteHeadband": {
     "message": "ヘッドバンド ホワイト"
   },
+
+  "CyclingCap": {
+    "message": "テッカサイクルキャップ"
+  },
+  "MatteBikeHelmet": {
+    "message": "ツヤケシMTBメット"
+  },
+  "DoubleEggShades": {
+    "message": "ダブルエッグサングラス"
+  },
+  "BlackArrowbands": {
+    "message": "アローバンド ブラック"
+  },
+  "FaceVisor": {
+    "message": "フェイスバイザー"
+  },
+  "HouseTagDenimCap": {
+    "message": "ハウスタグデニムCAP"
+  },
+  "StreetstyleCap": {
+    "message": "ビバレッジキャップ"
+  },
+  "SportyBobbleHat": {
+    "message": "ウィンターボンボン"
+  },
+  "SneakyBeanie": {
+    "message": "オシノビニット"
+  },
+  "SkateHelmet": {
+    "message": "スケボーメット"
+  },
+  "ClassicStrawBoater": {
+    "message": "イカンカン クラシック"
+  },
+  "WoollyUrchinsClassic": {
+    "message": "ウールウーニーズクラシック"
+  },
+  "TwoStripeMesh": {
+    "message": "2ラインメッシュ"
+  },
+  "PaisleyBandana": {
+    "message": "エイズリーバンダナ"
+  },
+  "FullMoonGlasses": {
+    "message": "マルベッコー"
+  },
+  "YamagiriBeanie": {
+    "message": "ヤマギリビーニー"
+  },
+  "TulipParasol": {
+    "message": "パラソルチューリップ"
+  },
+  "ShortBeanie": {
+    "message": "ショートビーニー"
+  },
+  "TreasureHunter": {
+    "message": "トレジャーメット"
+  },
+  "StealthGoggles": {
+    "message": "ナイトビジョン"
+  },
+  "SquidlifeHeadphones": {
+    "message": "ステカセヘッドホン"
+  },
+  "SplashGoggles": {
+    "message": "スプラッシュゴーグル"
+  },
+  "MotocrossNoseGuard": {
+    "message": "ノーズガードモトクロス"
+  },
+  "MoistGhillieHelmet": {
+    "message": "モイストワカメット"
+  },
+  "ForgeMask": {
+    "message": "フォーリマスク"
+  },
+  "DesignerHeadphones": {
+    "message": "オーロラヘッドホン"
+  },
+  "JungleHat": {
+    "message": "サファリハット"
+  },
+  "JetCap": {
+    "message": "ジェットキャップ"
+  },
+  "FuguBellHat": {
+    "message": "フグベルベルハット"
+  },
+  "FishFryBiscuitBandana": {
+    "message": "ヤキフグビスケットバンダナ"
+  },
+
 
 
   "AcerolaRainBoots": {
@@ -740,6 +1035,128 @@
   "YellowMeshSneakers": {
     "message": "アロメッシュイエロー"
   },
+
+  "ZombieHiHorses": {
+    "message": "シーホースHi ゾンビ"
+  },
+  "WhiteLacelessDakroniks": {
+    "message": "デカロノーレース ホワイト"
+  },
+  "BlueLacelessDakroniks": {
+    "message": "デカロノーレース ブルー"
+  },
+  "BlackSeahorses": {
+    "message": "シーホース ブラックレザー"
+  },
+  "BlueLoTops": {
+    "message": "グリッチョ ブルー"
+  },
+  "YellowIromaki750s": {
+    "message": "イロマキ750 イエロー"
+  },
+  "VioletTrainers": {
+    "message": "スミレビーンズ"
+  },
+  "SnowyDownBoots": {
+    "message": "ミルキーダウンブーツ"
+  },
+  "RedSeaSlugs": {
+    "message": "ウミウシレッド"
+  },
+  "RedIromaki750s": {
+    "message": "イロマキ750 レッド"
+  },
+  "PurpleIromaki750s": {
+    "message": "イロマキ750 パープル"
+  },
+  "GreenIromaki750s": {
+    "message": "イロマキ750 グリーン"
+  },
+  "CyanTrainers": {
+    "message": "シアンビーンズ"
+  },
+  "AmberSeaSlugHiTops": {
+    "message": "ウミウシタウンHi アンバー"
+  },
+  "WhiteArrows": {
+    "message": "ホワイトアローズ"
+  },
+  "SoccerShoes": {
+    "message": "ユデスパイカ"
+  },
+  "OrcaWovenHiTops": {
+    "message": "オルカHiウーブン"
+  },
+  "SharkMoccasins": {
+    "message": "ジョーズモカシン"
+  },
+  "GreenLaceups": {
+    "message": "ヒモヒモグリーン"
+  },
+  "TurquoiseKicks": {
+    "message": "ラバーソール ターコイズ"
+  },
+  "TanWorkBoots": {
+    "message": "ヌバックブーツ イエロー"
+  },
+  "SquinkWingtips": {
+    "message": "イカスミチップ"
+  },
+  "PunkCherries": {
+    "message": "ロッキンチェリー"
+  },
+  "NavyRedSoledWingtips": {
+    "message": "ネイビーチップ レッドソール"
+  },
+  "GrayYellowSoledWingtips": {
+    "message": "グレーチップ イエローソール"
+  },
+  "DeepseaLeatherBoots": {
+    "message": "シンカイレザーブーツ"
+  },
+  "SquidStitchSlipOns": {
+    "message": "スリッポン チドリ"
+  },
+  "RedSlipOns": {
+    "message": "スリッポン レッド"
+  },
+  "PolkadotSlipOns": {
+    "message": "スリッポン ポルカ"
+  },
+  "ClownfishBasics": {
+    "message": "キャンバス クマノミ"
+  },
+  "LuminousDeltaStraps": {
+    "message": "デルタストラップ ルミナス"
+  },
+  "GreenRainBoots": {
+    "message": "レイニーモスグリーン"
+  },
+  "BubbleRainBoots": {
+    "message": "レイニーシャボン"
+  },
+  "MoistGhillieBoots": {
+    "message": "モイストコンブーツ"
+  },
+  "RedFishFrySandals": {
+    "message": "ヤキフグシャワサン アカ"
+  },
+  "SunShadeSquidkidIV": {
+    "message": "エギング4 キイコン"
+  },
+  "NPacerAu": {
+    "message": "エンペーサーAu"
+  },
+  "NPacerAg": {
+    "message": "エンペーサーAg"
+  },
+  "NavyEnperrials": {
+    "message": "エンペリアルNV"
+  },
+  "AnnakiHabaneros": {
+    "message": "アナアキラバー ハバネロ"
+  },
+
 
 
   "Annaki": {
